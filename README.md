@@ -1,4 +1,4 @@
-### She Code Africa
+### She Code Africa - Week 1
 #### Week one: Validate User Input using Vue CDN
 
 #### Task
